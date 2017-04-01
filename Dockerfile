@@ -1,0 +1,1 @@
+FROM shipimg/msgbase:latest
